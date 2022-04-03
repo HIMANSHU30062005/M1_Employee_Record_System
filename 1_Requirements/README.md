@@ -26,3 +26,7 @@
 ### This problem is surfaced in all the organisation in the world.
 ##  How:
 ### This project takes in all the input values and yields out the management parameters.
+# Learning Resources
+## geeksforgeeks
+## tutorial point
+
